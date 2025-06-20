@@ -1,0 +1,23 @@
+#mgrid{
+    border: solid black 2px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.horz{
+    display: flex;
+
+}
+
+.box{
+    border: solid blue 2px;
+    width: 50px;
+    height: 50px;
+    flex: auto;
+    
+    
+    
+
+
+}
